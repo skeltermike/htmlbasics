@@ -1,0 +1,17 @@
+label{
+    border: floralwhite;
+    font-family: "DejaVu Sans Mono";
+}
+input{
+  border: aquamarine;
+    font-family: "DejaVu Serif";
+    border: solid 2px #38b40e;
+}
+body{
+    background-color: #14f7ff;
+}
+h2{
+    font-family: "Fira Code Light";
+    font-style: initial;
+    text-align: center;
+}

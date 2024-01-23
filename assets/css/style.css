@@ -1,0 +1,56 @@
+.jewelery{
+    border: solid 3px blue;
+    background-color: #14f7ff;
+    text-align: center;
+    margin: 25px;
+    padding: 25px;
+    font-family: "DejaVu Sans";
+}
+.fruits{
+     border: solid 3px #731b17;
+    background-color: #38b40e;
+    text-align: center;
+    margin: 25px;
+    padding: 25px;
+    font-family: "DejaVu Sans";
+}
+.Shoes{
+     border: solid 3px #14f7ff;
+    background-color: #6767f1;
+    text-align: center;
+    margin: 25px;
+    padding: 25px;
+    font-family: "DejaVu Sans";
+}
+.country{
+     border: solid 3px #37ff00;
+    background-color: #c07c88;
+    text-align: center;
+    margin: 25px;
+    padding: 25px;
+    font-family: "DejaVu Sans";
+}
+.cars{
+border: solid 3px #c07c88;
+    background-color: #b42be2;
+    text-align: center;
+    margin: 25px;
+    padding: 25px;
+    font-family: "DejaVu Sans";
+}
+#computers{
+border: solid 3px #141514;
+    background-color: #ffffff;
+    text-align: center;
+    margin: 25px;
+    padding: 25px;
+    font-family: "DejaVu Sans";
+}
+#subaru{
+  border: solid 3px #b40e0e;
+    background-color: #f8b407;
+    text-align: center;
+    margin: 25px;
+    padding: 25px;
+    font-family: "DejaVu Sans";
+}
